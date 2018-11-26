@@ -71,7 +71,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(450, 107);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Спектроскопия фурье ";
+            this.label1.Text = "Спектроскопия Фурье ";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // button1
@@ -102,6 +102,7 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "Влияние характеристик спектрометра \r\nна результаты исследования\r\n";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 

@@ -614,3 +614,4 @@ C:\Users\danil\Source\Repos\DanilKonon\phisics\Downloads\ph\WindowsFormsApp1 2\W
 C:\Users\danil\Source\Repos\DanilKonon\phisics\Downloads\ph\WindowsFormsApp1 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\danil\Source\Repos\DanilKonon\phisics\Downloads\ph\WindowsFormsApp1 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\danil\Source\Repos\DanilKonon\phisics\Downloads\ph\WindowsFormsApp1 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\d.kononykhin\source\repos\phisics\Downloads\ph\WindowsFormsApp1 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
